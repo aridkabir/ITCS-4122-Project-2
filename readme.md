@@ -19,6 +19,18 @@ Video games have always been something that I’ve enjoyed, and I’ve always wo
 - **Regional Sales** (North America, Europe, Japan)  
 These are the big factors that I wanted to explore in this project, seeing how each one directly plays into sales figures.
 ---
+**Target Audience**
+
+This dashboard is designed for:
+
+Gamers, who are curious about metrics throughout history
+
+Developers, looking to see what games are most popular worldwide
+
+Marketing teams, who determine which regions respond best to certain types of games
+
+Students, studying the gaming industry
+
 
 ## Dataset Description
 
@@ -32,6 +44,9 @@ These are the big factors that I wanted to explore in this project, seeing how e
   - `Year` — release year  
   - `Global_Sales` — worldwide sales (millions)  
   - `NA_Sales`, `EU_Sales`, `JP_Sales` — regional sales (millions)
+ 
+  I picked this dataset specifically because of the wide variety of items, spanning from the 1980's to 2020.
+  This gives us a lot of items to work with, and allows us to see trend data very easily utilizing PowerBI.
 
 ---
 
@@ -39,7 +54,7 @@ These are the big factors that I wanted to explore in this project, seeing how e
 
 Here are some steps taken to make the data analysis reliable:
 
-1. **Remove missingness:** rows with missing Genre, Platform, Publisher, or Sales fields were removed to avoid misleading charts.  
+1. **Remove missingness:** rows with missing Genre, Platform, Publisher, or Sales fields were removed to make cards and visuals cleaner.  
 2. **Drop zero-sales entries:** games with 0 sales in all regions were removed.  
 3. **Standardize categories:** ensured consistent formatting for platforms and publishers.  
 
