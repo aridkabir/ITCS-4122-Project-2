@@ -97,4 +97,7 @@ Here are some steps taken to make the data analysis reliable:
 - Incorporate critic/user rating data to compare sales vs. quality  
 - Add geographic mapping when selecting region
 
+## References
+- Kaggle Dataset: Video Game Sales with Ratings — https://www.kaggle.com/datasets/rush4ratio/video-game-sales-with-ratings
+
 [Portfolio Post](https://app.powerbi.com/reportEmbed?reportId=cb1c1178-1d15-4926-b2f8-5befae168b69&autoAuth=true&ctid=88d59d7d-aecb-41b2-90c5-55595de02536)
