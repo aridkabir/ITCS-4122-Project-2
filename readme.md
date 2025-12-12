@@ -102,4 +102,4 @@ Here are some steps taken to make the data analysis reliable:
 - Microsoft PowerBI — https://www.microsoft.com/en-us/power-platform/products/power-bi
 - ChatGPT — Layout / Formatting Assistance
 
-[Dashboard](https://app.powerbi.com/reportEmbed?reportId=cb1c1178-1d15-4926-b2f8-5befae168b69&autoAuth=true&ctid=88d59d7d-aecb-41b2-90c5-55595de02536)
+[Dashboard](https://app.powerbi.com/links/_g-zKHCXQJ?ctid=88d59d7d-aecb-41b2-90c5-55595de02536&pbi_source=linkShare)
